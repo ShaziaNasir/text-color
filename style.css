@@ -1,0 +1,25 @@
+
+   .page {
+    background-color: aqua;
+   }
+.information-1 {
+    background-color:rgb(221, 188, 0)
+
+}
+.information-2 {
+    background-color: #b63eee;
+}
+.information-3 {
+    background-color: bisque;
+}
+button {
+    background-color: blue;
+   font: 1em sans-serif; color: red;
+   border-radius: 10px;
+   cursor: pointer;
+}
+.option{
+    background-color: rgb(0, 255, 98);
+    color: aqua;
+    border-radius: 10px;
+}
